@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed166649-152a-4b1d-a982-aba4eaf0c7c4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.13.1/libexec" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1m3NexOghv2jZhttfPDX6hzG6RM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/36_Language_Fundamentals/exe" />
+      <recent name="$PROJECT_DIR$/36_Language_Fundamentals/math1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build packages1.go (1)">
+    <configuration name="go build packages1.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Practice2" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/36_Language_Fundamentals/exe/packages1.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build packages1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Practice2" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/36_Language_Fundamentals/packages1.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build sum.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Practice2" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/36_Language_Fundamentals/sum.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build packages1.go (1)" />
+        <item itemvalue="Go Build.go build packages1.go" />
+        <item itemvalue="Go Build.go build sum.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="353" key="#Go_Modules" timestamp="1608726232164">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="640" y="353" key="#Go_Modules/0.23.1680.979@0.23.1680.979" timestamp="1608726232164" />
+    <state x="731" y="381" key="EnvironmentVariablesDialog" timestamp="1608726229709">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="731" y="381" key="EnvironmentVariablesDialog/0.23.1680.979@0.23.1680.979" timestamp="1608726229709" />
+    <state width="1634" height="256" key="GridCell.Tab.0.bottom" timestamp="1608726147347">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state width="1634" height="256" key="GridCell.Tab.0.bottom/0.23.1680.979@0.23.1680.979" timestamp="1608726147347" />
+    <state width="1634" height="256" key="GridCell.Tab.0.center" timestamp="1608726147346">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state width="1634" height="256" key="GridCell.Tab.0.center/0.23.1680.979@0.23.1680.979" timestamp="1608726147346" />
+    <state width="1634" height="256" key="GridCell.Tab.0.left" timestamp="1608726147346">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state width="1634" height="256" key="GridCell.Tab.0.left/0.23.1680.979@0.23.1680.979" timestamp="1608726147346" />
+    <state width="1634" height="256" key="GridCell.Tab.0.right" timestamp="1608726147347">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state width="1634" height="256" key="GridCell.Tab.0.right/0.23.1680.979@0.23.1680.979" timestamp="1608726147347" />
+    <state x="356" y="151" key="SettingsEditor" timestamp="1608718892401">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="356" y="151" key="SettingsEditor/0.23.1680.979@0.23.1680.979" timestamp="1608718892401" />
+  </component>
+</project>
